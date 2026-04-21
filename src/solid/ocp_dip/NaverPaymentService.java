@@ -1,4 +1,4 @@
-package solid.ocp;
+package solid.ocp_dip;
 
 // OCP : 새로운 Pay가 추가되어도 기존의 pay 메서드는 수정할 필요가 없다.
 public class NaverPaymentService implements PaymentService {

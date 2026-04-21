@@ -1,4 +1,4 @@
-package solid.ocp;
+package solid.ocp_dip;
 
 public interface PaymentService {
 

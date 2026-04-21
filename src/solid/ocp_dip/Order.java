@@ -1,4 +1,4 @@
-package solid.ocp;
+package solid.ocp_dip;
 
 // 주문 정보 클래스
 public class Order {

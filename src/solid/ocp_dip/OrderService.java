@@ -1,4 +1,4 @@
-package solid.ocp;
+package solid.ocp_dip;
 
 // DIP가 적용되지 않은 경우 : OrderService -> CardPaymentService
 // DIP가 적용된 경우 : OrderService -> PaymentService <- CardPaymentService
